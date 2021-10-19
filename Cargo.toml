@@ -1,0 +1,11 @@
+[package]
+name = "iodef"
+version = "0.1.0"
+edition = "2021"
+authors = ["Q <q@as207960.net>"]
+license = "MIT"
+repository = "https://github.com/as207960/rust-iodef"
+description = "Incident Object Description Exchange Format Version 2 bindings for Rust"
+readme = "README.md"
+
+[dependencies]
